@@ -3,12 +3,11 @@ package org.cap.demo;
 public class Employee implements Comparable <Employee>{
 	
 	private int empId; //tsi
-	private String firstName;
+	private String firstName;//added11
 	private String lastName;
 	private double salary;
 	
-	public Employee() { //test11333444opo
-	}
+
 
 	public Employee(int empId, String firstName, String lastName, double salary){
 		super();

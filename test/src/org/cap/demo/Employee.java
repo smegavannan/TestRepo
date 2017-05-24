@@ -7,7 +7,7 @@ public class Employee implements Comparable <Employee>{
 	private String lastName;
 	private double salary;
 	
-	public Employee() { //test
+	public Employee() { //test11
 	}
 
 	public Employee(int empId, String firstName, String lastName, double salary){

@@ -3,7 +3,7 @@ package org.cap.demo;
 public class Employee implements Comparable <Employee>{
 	
 	private int empId; //tsi
-	private String firstName;//added11
+	private String firstName;//added11ooo
 	private String lastName;
 	private double salary;
 	
